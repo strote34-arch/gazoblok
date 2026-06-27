@@ -1,5 +1,5 @@
 /* ГАЗОБЛОК34 — опубликованный контент сайта (виден ВСЕМ посетителям).
-   Создан кнопкой «Скачать файл для сайта» в админке 13.06.2026, 10:52:07.
+   Создан кнопкой «Скачать файл для сайта» в админке 27.06.2026, 19:49:25.
    Загрузите этот файл в GitHub (папка app/), заменив старый content.js. */
 window.GB_PUBLISHED = {
   "MAX_LINK": "https://max.ru/u/f9LHodD0cOKLM7z8Ql0dOJQj2cvvljdZN_O7wJuAmhTrjfpmM2J71Zo8BRg",
@@ -15,8 +15,8 @@ window.GB_PUBLISHED = {
     "supplier": "Завод газобетона ГРАС"
   },
   "ANALYTICS": {
-    "yandexId": "109796557",
-    "googleId": "G-N3F6QCZ55B"
+    "yandexId": "110136714",
+    "googleId": "G-HGFR7SVC9Q"
   },
   "SOCIALS": [
     {
